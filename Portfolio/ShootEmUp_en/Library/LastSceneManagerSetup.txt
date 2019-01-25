@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/DaReaper95/Desktop/Portfolio/Go-Game/Assets/Scenes/ExampleScene.unity
+  isLoaded: 1
+  isActive: 1
